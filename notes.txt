@@ -1,3 +1,5 @@
 some interesting notes
 
 Lab 1: basic git workflow
+
+Lab 2: using branches and forks
